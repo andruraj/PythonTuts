@@ -1,7 +1,7 @@
 # PythonTuts
 Python hands on tutorial for Beginners from Basics to Advanced
 
-#Topics covered
+# Topics covered
 Numbers
     datatypes
     random
@@ -13,4 +13,4 @@ Strings
     raw string
     string formatting
     string operations
-    
+
