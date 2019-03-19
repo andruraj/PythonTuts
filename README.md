@@ -13,3 +13,29 @@ Python hands on tutorial for Beginners from Basics to Advanced
     *  raw string
     *  string formatting
     *  string operations
+* __List__
+* __Set__
+* __Dictionaries__
+* __Tuples__
+* Dates
+* __Functions__
+    * Recursion
+    * Lambda
+    * Multiple Argument functions
+* **Classes and Objects**
+    * Constructor
+    * Encapsulation
+    * Inheritance
+    * Polymorphism
+    * Method Overloading
+    * Method Overriding
+* Generators
+* Decorators
+* Partial functions
+* Regular Expressions
+* **Conditionals**
+* Filehandling
+* **Exception Handling**
+* Serialization
+* NumPy array
+* Pandas
