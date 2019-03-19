@@ -13,4 +13,3 @@ Strings
     raw string
     string formatting
     string operations
-
